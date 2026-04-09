@@ -1,4 +1,5 @@
-## Create a course selling website
+## Create a course selling API
+
 
 ### Description
 
