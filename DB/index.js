@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
  .then( ()=>{
    console.log("Connection Sucessfull")
  })
- .catch((er)=>{
+ .catch((err)=>{
    console.error("Connection have a problem")
  });
 
