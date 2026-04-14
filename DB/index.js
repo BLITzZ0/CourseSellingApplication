@@ -1,4 +1,4 @@
-const mongoose = require("mongose");
+const mongoose = require("mongoOse");
 
  mongoose.connect("mongodb URL")
  .then( ()=>{
